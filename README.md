@@ -14,6 +14,8 @@
 
 ## Features
 
+[![CI](https://github.com/tsilva/dedrive/actions/workflows/release.yml/badge.svg)](https://github.com/tsilva/dedrive/actions/workflows/release.yml)
+
 - **Fast MD5-based detection** - Identifies duplicates by comparing file checksums, not just names
 - **Two interfaces** - CLI for quick scans, Web UI for interactive review with file previews
 - **Non-destructive** - Moves duplicates to `/_dupes` folder instead of deleting them
