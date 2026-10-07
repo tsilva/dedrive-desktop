@@ -1,20 +1,22 @@
+<p align="center">
+  <img src="logo.png" alt="dedrive" width="512"/>
+  <br />
+  <!-- repo-tagline:start -->
+  <strong>🔍 Find and manage duplicate Google Drive files with MD5 🗑️</strong>
+  <!-- repo-tagline:end -->
+</p>
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://python.org)
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+  [![Google Drive API](https://img.shields.io/badge/Google%20Drive-API%20v3-4285F4?logo=googledrive&logoColor=white)](https://developers.google.com/drive)
+
+  [Features](#features) · [Quick Start](#quick-start) · [Configuration](#configuration) · [Usage](#usage)
+
 > [!WARNING]
 > ## Archived
 > This project is archived and no longer maintained.
 >
 > Superseded by [dedrive](https://github.com/tsilva/dedrive), a rewrite with improved architecture and features.
-
-<div align="center">
-  <img src="logo.png" alt="dedrive" width="512"/>
-
-  [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://python.org)
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-  [![Google Drive API](https://img.shields.io/badge/Google%20Drive-API%20v3-4285F4?logo=googledrive&logoColor=white)](https://developers.google.com/drive)
-
-  **🔍 Find and manage duplicate files in Google Drive using MD5 checksums 🗑️**
-
-  [Features](#features) · [Quick Start](#quick-start) · [Configuration](#configuration) · [Usage](#usage)
-</div>
 
 ---
 
